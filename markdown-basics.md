@@ -20,8 +20,8 @@ This is a new paragraph of text that will output as an HTML `<p>` tag.
 
 - List item 1
 - [List item 2](https://duckduckgo.com)
-	1. Inner list
-	2. Inner list 2
+  1. Inner list
+  2. Inner list 2
 - List item 3
 - List item 4
 
